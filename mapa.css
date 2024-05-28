@@ -1,0 +1,55 @@
+.relatorio{
+    left:60%;
+    position:absolute;
+}
+
+.map{
+    height: 800px; width:800px;position:absolute;
+    left:15%;
+  border-radius:10px;
+}
+
+.adicionamarc{
+    color:rgb(88, 236, 51);
+    font-size:80px;
+    font-family:"Bebas Neue", sans-serif;
+}
+
+.dsc{
+    font-family:"Roboto Condensed", sans-serif;
+    font-size:35px;
+    font-weight:500;
+    color:rgb(1, 1, 77);
+}
+
+input{
+    font-size:25px;
+    padding-top:4px;
+    padding-bottom:5px;
+    padding-left:4px;
+    padding-right:150px;
+    box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+    border-style:none;
+    font-family:"Roboto Condensed", sans-serif;
+    border-radius:10px;
+    font-weight:500;
+}
+
+select{
+    font-size:25px;
+border-radius:10px;
+border-style:flayt;
+box-shadow: rgba(100, 100, 111, 0.1) 0px 7px 29px 0px;
+}
+
+iframe{
+    border-radius:10px;
+}
+
+.titulomp{
+  
+    color:rgb(88, 236, 51);
+    left:2%;
+    font-size:80px;
+    font-family:"Bebas Neue", sans-serif;
+}
